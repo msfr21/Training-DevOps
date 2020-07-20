@@ -3,3 +3,5 @@ test file using github
 ###training devops
 add line on text.txt
 ini script dari dev
+tambah baris dari dev
+tambah baris dari master
